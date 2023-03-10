@@ -2,3 +2,7 @@
 
 Console.WriteLine("HELLO!");
 Console.ReadLine();
+Console.ReadLine();
+Console.ReadLine();
+Console.ReadLine();
+Console.ReadLine();
