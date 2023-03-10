@@ -6,7 +6,7 @@ Console.WriteLine("HELLO!");
 Console.WriteLine("HELLO!");
 Console.WriteLine("HELLO!");
 Console.WriteLine("HELLO!");
-Console.WriteLine("123!");
+Console.WriteLine("123! ");
 Console.ReadLine();
 Console.ReadLine();
 Console.ReadLine();
